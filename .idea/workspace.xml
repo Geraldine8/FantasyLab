@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8debfeca-7e5b-4ab9-87dc-d6009547f917" name="Default Changelist" comment="" />
+    <list default="true" id="8debfeca-7e5b-4ab9-87dc-d6009547f917" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Medic/Cleric.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Medic/Cleric.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Medics/ClericTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Medics/ClericTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Medics/ClericTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Medics/ClericTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Medics/HerbTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Medics/HerbTest.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -45,8 +52,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/Medics/HerbTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" column="5" lean-forward="true" selection-start-line="12" selection-start-column="3" selection-end-line="27" selection-end-column="5" />
+            <state relative-caret-position="255">
+              <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="method#befoer#0;class#HerbTest#0" expanded="true" />
@@ -59,8 +66,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Healers/Potion.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" selection-start-line="6" selection-end-line="15" selection-end-column="5" />
+            <state relative-caret-position="255">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="method#Potion#0;class#Potion#0" expanded="true" />
@@ -73,12 +80,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Medic/Cleric.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+            <state relative-caret-position="255">
+              <caret line="17" column="36" lean-forward="true" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="method#Cleric#0;class#Cleric#0" expanded="true" />
-                <element signature="method#heal#0;class#Cleric#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -87,12 +93,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/Medics/ClericTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+            <state relative-caret-position="391">
+              <caret line="30" column="28" lean-forward="true" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="28" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="method#befoer#0;class#ClericTest#0" expanded="true" />
-                <element signature="method#canHeal#0;class#ClericTest#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -113,6 +118,9 @@
       <dir>$PROJECT_DIR$/src/main/java/Fighters</dir>
       <dir>$PROJECT_DIR$/src/main/java/Players/fighters</dir>
     </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -165,8 +173,8 @@
         <option value="$PROJECT_DIR$/src/main/java/Healers/Potion.java" />
         <option value="$PROJECT_DIR$/src/test/java/Medics/PotionTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/Healers/Herb.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Medic/Cleric.java" />
         <option value="$PROJECT_DIR$/src/test/java/Medics/HerbTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Medic/Cleric.java" />
         <option value="$PROJECT_DIR$/src/test/java/Medics/ClericTest.java" />
       </list>
     </option>
@@ -184,6 +192,7 @@
     <option name="width" value="1553" />
     <option name="height" value="876" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -277,6 +286,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
@@ -303,11 +313,42 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.HerbTest">
+  <component name="RunManager" selected="JUnit.ClericTest.canHeal">
     <configuration name="All in FantasyLab" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="FantasyLab" />
       <option name="PACKAGE_NAME" value="" />
       <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClericTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FantasyLab" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Medics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Medics" />
+      <option name="MAIN_CLASS_NAME" value="Medics.ClericTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClericTest.canHeal" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FantasyLab" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Medics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Medics" />
+      <option name="MAIN_CLASS_NAME" value="Medics.ClericTest" />
+      <option name="METHOD_NAME" value="canHeal" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -343,44 +384,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PotionTest.canHeal" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="FantasyLab" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Medics.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Medics" />
-      <option name="MAIN_CLASS_NAME" value="Medics.PotionTest" />
-      <option name="METHOD_NAME" value="canHeal" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="WizardTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="FantasyLab" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Mages.Defenders.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Mages.Defenders" />
-      <option name="MAIN_CLASS_NAME" value="Mages.Defenders.WizardTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ClericTest.canHeal" />
+        <item itemvalue="JUnit.ClericTest" />
         <item itemvalue="JUnit.HerbTest" />
         <item itemvalue="JUnit.HerbTest.canHeal" />
         <item itemvalue="JUnit.All in FantasyLab" />
-        <item itemvalue="JUnit.PotionTest.canHeal" />
-        <item itemvalue="JUnit.WizardTest" />
       </list>
     </recent_temporary>
   </component>
@@ -398,18 +408,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="WizardTest - 2019.11.16 at 00h 00m 19s.xml">
-      <configuration name="WizardTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="WizardTest - 2019.11.16 at 00h 00m 51s.xml">
-      <configuration name="WizardTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="PotionTest_canHeal - 2019.11.16 at 00h 22m 33s.xml">
-      <configuration name="PotionTest.canHeal" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="PotionTest_canHeal - 2019.11.16 at 00h 24m 28s.xml">
-      <configuration name="PotionTest.canHeal" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="HerbTest_canHeal - 2019.11.16 at 00h 27m 35s.xml">
       <configuration name="HerbTest.canHeal" configurationId="JUnit" />
     </history-entry>
@@ -427,6 +425,18 @@
     </history-entry>
     <history-entry file="HerbTest - 2019.11.16 at 00h 50m 44s.xml">
       <configuration name="HerbTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HerbTest - 2019.11.16 at 00h 58m 35s.xml">
+      <configuration name="HerbTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ClericTest - 2019.11.16 at 00h 58m 43s.xml">
+      <configuration name="ClericTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ClericTest_canHeal - 2019.11.16 at 01h 00m 05s.xml">
+      <configuration name="ClericTest.canHeal" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ClericTest_canHeal - 2019.11.16 at 01h 15m 48s.xml">
+      <configuration name="ClericTest.canHeal" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -925,34 +935,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Healers/Potion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" selection-start-line="6" selection-end-line="15" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#Potion#0;class#Potion#0" expanded="true" />
-            <element signature="method#heal#0;class#Potion#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Medic/Cleric.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#Cleric#0;class#Cleric#0" expanded="true" />
-            <element signature="method#heal#0;class#Cleric#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/Medics/HerbTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="5" lean-forward="true" selection-start-line="12" selection-start-column="3" selection-end-line="27" selection-end-column="5" />
+        <state relative-caret-position="255">
+          <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="method#befoer#0;class#HerbTest#0" expanded="true" />
@@ -961,14 +947,36 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Medic/Cleric.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="36" lean-forward="true" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#Cleric#0;class#Cleric#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Healers/Potion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#Potion#0;class#Potion#0" expanded="true" />
+            <element signature="method#heal#0;class#Potion#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/Medics/ClericTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+        <state relative-caret-position="391">
+          <caret line="30" column="28" lean-forward="true" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="28" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="method#befoer#0;class#ClericTest#0" expanded="true" />
-            <element signature="method#canHeal#0;class#ClericTest#0" expanded="true" />
           </folding>
         </state>
       </provider>

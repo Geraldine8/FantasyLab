@@ -5,6 +5,7 @@ import Players.Player;
 
 public class Cleric extends Player {
     IHeal medicine;
+
     public Cleric(int healthPoints, String name, IHeal medicine) {
         super(healthPoints, name);
         this.medicine = medicine;
